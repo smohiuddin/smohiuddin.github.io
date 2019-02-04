@@ -1,0 +1,13 @@
+# jekyll
+_site/
+*.DS_Store
+*.sublime-project
+*.sublime-workspace
+codekit-config.json
+node_modules
+.sass-cache
+.idea
+Gemfile.lock
+*.iml
+s3_website.yml
+.assets-cache
